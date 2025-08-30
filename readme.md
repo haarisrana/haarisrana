@@ -1,5 +1,6 @@
 # 💫 About Me:
-🚀Software Developer | DevOps Enginner | Cybersecurity Consultant<br><br>🌱 I’m skilled in building, securing, and deploying web applications, I specialize in delivering dynamic, scalable, and high-performing solutions tailored to your business needs.<br><br>
+🚀Software Developer | DevOps Enginner | Cybersecurity Consultant<br><br>🌱 I’m skilled in building, securing, and deploying web applications, I specialize in delivering dynamic, scalable, and high-performing solutions tailored to your business needs.<br><br> 🎨 I also have experience in UI UX and Graphics desgin.
+<br><br>
 
 
 ## 🌐 Socials:
